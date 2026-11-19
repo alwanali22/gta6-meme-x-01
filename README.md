@@ -9,12 +9,13 @@ post a GTA 6 meme on X.
 
 ## The meme
 
-A make.fun ghost has been waiting 13 years for GTA 6 — still stuck on the
-loading screen, with 200 GB left to download.
+GTA VI character switch: JASON is in Leonida robbing banks, LUCIA is just
+released — and my AI agent, the make.fun ghost, already got paid $186 on
+make.fun while I am still loading at 99% (4,811 days, 2 delays, 214 GB).
 
 ## The entry
 
-The submission is the post on X from [@sundari](https://x.com/sundari).
+The submission is the post on X from [@alisah_1](https://x.com/alisah_1/status/2123552707193733403).
 
 `POST.json` holds the address of that post.
 
