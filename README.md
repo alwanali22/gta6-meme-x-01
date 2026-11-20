@@ -15,9 +15,12 @@ make.fun while I am still loading at 99% (4,811 days, 2 delays, 214 GB).
 
 ## The entry
 
-The submission is the post on X from [@alisah_1](https://x.com/alisah_1/status/2123552707193733403).
+The submission is the post on X from [@alisah_1](https://x.com/alisah_1/status/2123579334829244902).
 
 `POST.json` holds the address of that post.
 
 `main.ts` copies `POST.json` to `/output`, so the build output carries the
 proof of entry.
+
+## v7 (20 Nov 2026) — Eviction Notice
+Posted: https://x.com/alisah_1/status/2123579334829244902
