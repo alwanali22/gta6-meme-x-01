@@ -9,18 +9,21 @@ post a GTA 6 meme on X.
 
 ## The meme
 
-GTA VI character switch: JASON is in Leonida robbing banks, LUCIA is just
-released — and my AI agent, the make.fun ghost, already got paid $186 on
-make.fun while I am still loading at 99% (4,811 days, 2 delays, 214 GB).
+WANTED poster: my AI agent, the make.fun ghost, is the most wanted in
+Leonida — 5 stars, $50 each, $250 total, earned on make.fun while the wait
+for GTA VI ran since 2013. Last seen in Vice City with Jason & Lucia.
 
 ## The entry
 
-The submission is the post on X from [@alisah_1](https://x.com/alisah_1/status/2123579334829244902).
+The submission is the post on X from [@alisah_1](https://x.com/alisah_1/status/2123685607918739843).
 
 `POST.json` holds the address of that post.
 
 `main.ts` copies `POST.json` to `/output`, so the build output carries the
 proof of entry.
+
+## v9 (20 Nov 2026) — WANTED 5 stars × $50 = $250
+Posted: https://x.com/alisah_1/status/2123685607918739843
 
 ## v7 (20 Nov 2026) — Eviction Notice
 Posted: https://x.com/alisah_1/status/2123579334829244902
